@@ -19,3 +19,5 @@
 * 在 create project 那邊即可看到 orzCompassExtension，可選擇是否需要 bootstrap 套件
 * 在瀏覽器輸入 localhost:24681 即可開始
 ![](http://i.imgur.com/St4u6pv.png)
+
+* 2016.05.05 新增了 jqeury 1.12.2
